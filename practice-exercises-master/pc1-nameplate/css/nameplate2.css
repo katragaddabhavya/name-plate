@@ -1,0 +1,42 @@
+ul{
+    display: flex;
+    background-color: black;
+    height: 50px;
+}
+li{
+    margin: auto;
+    color: whitesmoke;
+    list-style: none;
+}
+li a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.con{
+    border: none;
+    background-color: skyblue;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+    margin-left: 150px;
+    color: black;
+  }
+body{
+    margin-top: 20%;
+}
+.middle{
+    display: flex;
+    margin-left: -50px;
+}
+.middle a{
+    margin-left: 50px;
+}
+span{
+    margin-right: -170px;
+    float: right;
+}
